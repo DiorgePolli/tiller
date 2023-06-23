@@ -13,13 +13,13 @@ Os dados fornecidos foram processados e limpos com SQL. Todas as operações pod
 
 Para fins de comparação foram usados os dados até o dia 18 de novembro de 2019 para previr o faturamento das lojas para o ano seguinte, foi usado um modelo de regrssão linear em Python para tal, que está anexo ao projeto. As tendências foram muito fiéis a projeção o que mostrou que o modelo foi eficaz para prever tendencia mas nao teve um acerto significativo nos valores exatos.
 
-<img src="images/images/TILLER-BY-SUMUP-LOGO.png">
+<img src="images/tiller_notebook_regressao.png">
 
 ## DASHBOARD
 
 Foi feita uma apresentação em que o cliente pode comparar os dados fianceiros de seu restaurante de forma simples e intuitiva. Num primeiro momento é possivel observar o desempenho dos ultimos 365 dias e comparar com o periodo anterior. O controle de tempo fica a cargo do cliente que pode altera-lo de maneira simples para uma analise mais detalhada.
 
-
+<img src="images/tiller_financeiro.png">
 
 ### Dashboard Financeiro
 https://lookerstudio.google.com/reporting/f54e133a-1dfa-43d8-926e-821bdbef86bd
