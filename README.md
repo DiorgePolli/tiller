@@ -1,4 +1,4 @@
-# Tiller by SUMUP
+<img src="images/TILLER-BY-SUMUP-LOGO.png"/>
 
 Nesse projeto foi pedido um dashboard para que o cliente, nesse caso, 21 restaurantes de Paris tivessem uma forma de controlar suas operações a partir dos dados coletados pelo software Tiller by Sumup que é uma espécie de caixa registradora em que os garçons anotam os pedidos e recebem os pagamentos dos clientes, tudo por um Ipad. 
 
@@ -12,6 +12,8 @@ Os dados fornecidos foram processados e limpos com SQL. Todas as operações pod
 ## ML E ENRIQUECIMENTO
 
 Para fins de comparação foram usados os dados até o dia 18 de novembro de 2019 para previr o faturamento das lojas para o ano seguinte, foi usado um modelo de regrssão linear em Python para tal, que está anexo ao projeto. As tendências foram muito fiéis a projeção o que mostrou que o modelo foi eficaz para prever tendencia mas nao teve um acerto significativo nos valores exatos.
+
+<img src="images/images/TILLER-BY-SUMUP-LOGO.png>
 
 ## DASHBOARD
 
