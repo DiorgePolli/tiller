@@ -13,7 +13,7 @@ Os dados fornecidos foram processados e limpos com SQL. Todas as operações pod
 
 Para fins de comparação foram usados os dados até o dia 18 de novembro de 2019 para previr o faturamento das lojas para o ano seguinte, foi usado um modelo de regrssão linear em Python para tal, que está anexo ao projeto. As tendências foram muito fiéis a projeção o que mostrou que o modelo foi eficaz para prever tendencia mas nao teve um acerto significativo nos valores exatos.
 
-<img src="images/images/TILLER-BY-SUMUP-LOGO.png>
+<img src="images/images/TILLER-BY-SUMUP-LOGO.png">
 
 ## DASHBOARD
 
